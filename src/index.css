@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap");
+@import url("https://fonts.cdnfonts.com/css/schabo");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #5862ed;
+  --color-secondary: #faf0e0;
+  --color-tertiary: #000037;
+  --color-fourth: #1c1c1c;
+  --font-outfit: "Outfit", sans-serif;
+  --font-schabo: "SCHABO", sans-serif;
+}
+
+:root {
+  background-color: var(--color-primary);
+}
