@@ -2,20 +2,20 @@ export default function Contact() {
   const links = [
     {
       label: "Email",
-      value: "pascal.zhou@example.com",
-      href: "mailto:pascal.zhou@example.com",
+      value: "pascal.zhou.pro@gmail.com",
+      href: "mailto:pascal.zhou.pro@gmail.com",
       description: "Send me a message",
     },
     {
       label: "GitHub",
-      value: "github.com/pascalzhou",
-      href: "https://github.com/pascalzhou",
+      value: "github.com/paschyz",
+      href: "https://github.com/paschyz",
       description: "See my code",
     },
     {
       label: "LinkedIn",
-      value: "linkedin.com/in/pascalzhou",
-      href: "https://linkedin.com/in/pascalzhou",
+      value: "linkedin.com/in/pascal-zhou",
+      href: "https://www.linkedin.com/in/pascal-zhou",
       description: "Connect with me",
     },
   ];
